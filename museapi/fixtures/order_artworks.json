@@ -1,0 +1,35 @@
+[
+    {
+      "model": "museapi.orderartwork",
+      "pk": 1,
+      "fields": {
+        "artwork": 1,
+        "order": 1
+      }
+    },
+    {
+      "model": "museapi.orderartwork",
+      "pk": 2,
+      "fields": {
+        "artwork": 2,
+        "order": 1
+      }
+    },
+    {
+      "model": "museapi.orderartwork",
+      "pk": 3,
+      "fields": {
+        "artwork": 3,
+        "order": 2
+      }
+    },
+    {
+      "model": "museapi.orderartwork",
+      "pk": 4,
+      "fields": {
+        "artwork": 4,
+        "order": 2
+      }
+    }
+  ]
+  

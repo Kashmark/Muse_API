@@ -1,0 +1,73 @@
+[
+    {
+      "model": "museapi.medium",
+      "pk": 1,
+      "fields": {
+        "type": "Painting"
+      }
+    },
+    {
+      "model": "museapi.medium",
+      "pk": 2,
+      "fields": {
+        "type": "Photography"
+      }
+    },
+    {
+      "model": "museapi.medium",
+      "pk": 3,
+      "fields": {
+        "type": "Illustration"
+      }
+    },
+    {
+      "model": "museapi.medium",
+      "pk": 4,
+      "fields": {
+        "type": "Sculpting"
+      }
+    },
+    {
+      "model": "museapi.medium",
+      "pk": 5,
+      "fields": {
+        "type": "Digital"
+      }
+    },
+    {
+      "model": "museapi.medium",
+      "pk": 6,
+      "fields": {
+        "type": "Ceramics"
+      }
+    },
+    {
+      "model": "museapi.medium",
+      "pk": 7,
+      "fields": {
+        "type": "Grafitti"
+      }
+    },
+    {
+      "model": "museapi.medium",
+      "pk": 8,
+      "fields": {
+        "type": "Poetry"
+      }
+    },
+    {
+      "model": "museapi.medium",
+      "pk": 9,
+      "fields": {
+        "type": "Novel"
+      }
+    },
+    {
+      "model": "museapi.medium",
+      "pk": 10,
+      "fields": {
+        "type": "Mixed Media"
+      }
+    }
+  ]
+  

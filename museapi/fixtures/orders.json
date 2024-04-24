@@ -1,0 +1,21 @@
+[
+    {
+      "model": "museapi.order",
+      "pk": 1,
+      "fields": {
+        "payment_type": 1,
+        "user": 1,
+        "created_date": "2024-04-01T10:00:00Z"
+      }
+    },
+    {
+      "model": "museapi.order",
+      "pk": 2,
+      "fields": {
+        "payment_type": 2,
+        "user": 2,
+        "created_date": "2024-04-02T11:00:00Z"
+      }
+    }
+  ]
+  

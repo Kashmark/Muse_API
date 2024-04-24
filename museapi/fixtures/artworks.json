@@ -1,0 +1,58 @@
+[
+    {
+      "model": "museapi.artwork",
+      "pk": 1,
+      "fields": {
+        "price": 100,
+        "artist": 1,
+        "medium": 1,
+        "picture_url": "https://example.com/painting.jpg",
+        "description": "A beautiful oil painting depicting nature."
+      }
+    },
+    {
+      "model": "museapi.artwork",
+      "pk": 2,
+      "fields": {
+        "price": 200,
+        "artist": 2,
+        "medium": 2,
+        "picture_url": "https://example.com/sculpture.jpg",
+        "description": "An abstract sculpture made from marble."
+      }
+    },
+    {
+      "model": "museapi.artwork",
+      "pk": 3,
+      "fields": {
+        "price": 150,
+        "artist": 3,
+        "medium": 3,
+        "picture_url": "https://example.com/photograph.jpg",
+        "description": "A stunning photograph of a city skyline."
+      }
+    },
+    {
+      "model": "museapi.artwork",
+      "pk": 4,
+      "fields": {
+        "price": 300,
+        "artist": 1,
+        "medium": 1,
+        "picture_url": "https://example.com/landscape.jpg",
+        "description": "A landscape oil painting capturing the essence of the countryside."
+      }
+    },
+    {
+      "model": "museapi.artwork",
+      "pk": 5,
+      "fields": {
+        "price": 250,
+        "artist": 2,
+        "medium": 2,
+        "picture_url": "https://example.com/statue.jpg",
+        "description": "A bronze statue representing human emotions."
+      }
+    }
+  ]
+  

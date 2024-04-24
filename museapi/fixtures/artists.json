@@ -1,0 +1,30 @@
+[
+    {
+      "model": "museapi.artist",
+      "pk": 1,
+      "fields": {
+        "user": 1,
+        "preferred_medium": 1,
+        "bio": "I am an artist specializing in oil paintings."
+      }
+    },
+    {
+      "model": "museapi.artist",
+      "pk": 2,
+      "fields": {
+        "user": 2,
+        "preferred_medium": 2,
+        "bio": "I create sculptures using various materials."
+      }
+    },
+    {
+      "model": "museapi.artist",
+      "pk": 3,
+      "fields": {
+        "user": 3,
+        "preferred_medium": 3,
+        "bio": "I am a photographer capturing moments in time."
+      }
+    }
+  ]
+  

@@ -1,0 +1,46 @@
+[
+    {
+      "model": "auth.User",
+      "pk": 1,
+      "fields": {
+        "username": "user1",
+        "password": "hashed_password",
+        "first_name": "John",
+        "last_name": "Doe",
+        "email": "user1@example.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2024-04-25T10:00:00Z"
+      }
+    },
+    {
+      "model": "auth.User",
+      "pk": 2,
+      "fields": {
+        "username": "user2",
+        "password": "hashed_password",
+        "first_name": "Jane",
+        "last_name": "Smith",
+        "email": "user2@example.com",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2024-04-26T11:00:00Z"
+      }
+    },
+    {
+      "model": "auth.User",
+      "pk": 3,
+      "fields": {
+        "username": "user3",
+        "password": "hashed_password",
+        "first_name": "Alice",
+        "last_name": "Johnson",
+        "email": "user3@example.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2024-04-27T12:00:00Z"
+      }
+    }
+  ]
+  
+  

@@ -1,0 +1,19 @@
+[
+    {
+      "model": "museapi.savedartwork",
+      "pk": 1,
+      "fields": {
+        "artwork": 1,
+        "user": 1
+      }
+    },
+    {
+      "model": "museapi.savedartwork",
+      "pk": 2,
+      "fields": {
+        "artwork": 3,
+        "user": 2
+      }
+    }
+  ]
+  

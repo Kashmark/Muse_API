@@ -1,0 +1,30 @@
+[
+    {
+      "model": "museapi.paymenttype",
+      "pk": 1,
+      "fields": {
+        "merchant_name": "Visa",
+        "number": "1234567890123456",
+        "user": 1
+      }
+    },
+    {
+      "model": "museapi.paymenttype",
+      "pk": 2,
+      "fields": {
+        "merchant_name": "Mastercard",
+        "number": "5432167890123456",
+        "user": 2
+      }
+    },
+    {
+      "model": "museapi.paymenttype",
+      "pk": 3,
+      "fields": {
+        "merchant_name": "American Express",
+        "number": "9876543210123456",
+        "user": 3
+      }
+    }
+  ]
+  
