@@ -1,8 +1,6 @@
-# In your_app/models/art_category.py
-
 from django.db import models
-from .artwork import Artwork  # Import the Artwork model
-from .category import Category  # Import the Category model
+from .artwork import Artwork  
+from .category import Category  
 
 
 class ArtCategory(models.Model):

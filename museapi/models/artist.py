@@ -1,8 +1,8 @@
 from django.db import models
-from .medium import Medium  # Import the Medium model if it's defined in a separate file
+from .medium import Medium
 from django.contrib.auth.models import (
     User,
-)  # Import the User model from Django's built-in authentication system
+)
 
 
 class Artist(models.Model):
