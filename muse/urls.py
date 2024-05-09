@@ -26,7 +26,7 @@ router.register(r"artworkCategory", ArtCategoryViewSet, basename="ArtCategories"
 router.register(r"orderArtworks", OrderArtworkViewSet, basename="orderArtwork")
 router.register(r"orders", OrderViewSet, basename="orders")
 router.register(r"paymentTypes", PaymentTypeViewSet, basename="paymentTypes")
-router.register(r"users", UserViewSet, basename="users")
+# router.register(r"users", UserViewSet, basename="users")
 
 
 urlpatterns = [
